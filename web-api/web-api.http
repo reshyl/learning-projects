@@ -1,0 +1,9 @@
+﻿@webapi_HostAddress = https://localhost:7078
+
+GET {{webapi_HostAddress}}/api/movies
+
+###
+
+GET {{webapi_HostAddress}}/api/movies
+
+###
